@@ -68,7 +68,7 @@ def healthcheck():
 def info():
     return jsonify({
         'id': 'nationalparks-py',
-        'displayName': 'Amazing National Parks (PY)',
+        'displayName': 'Amazing National 1 Parks (PY)',
         'type': 'cluster',
         'center': {'latitude': '47.039304', 'longitude': '14.505178'},
         'zoom': 4
